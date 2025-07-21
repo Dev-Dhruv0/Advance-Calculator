@@ -1,7 +1,3 @@
-Great! Here's your updated `README.md` tailored to your **Advance-Calculator** Python project, now reflecting the use of `customtkinter`, `ast`, `operator`, and its **"in development"** status:
-
----
-
 # Advance-Calculator 🧮 *(In Development)*
 
 A feature-rich, modern Python calculator app with a sleek GUI powered by `customtkinter`. Supports both basic and advanced mathematical operations using Python's powerful built-in libraries like `ast` and `operator`.
