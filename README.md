@@ -111,7 +111,7 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with 🐍 + 💻 by \[YourNameHere]
+Made with 🐍 + 💻 by \ Dhruv
 Stay tuned for updates and enhancements! 🚀
 
 ---
